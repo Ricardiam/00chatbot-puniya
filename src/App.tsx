@@ -55,7 +55,7 @@ function App() {
           <h1 className="text-white text-xl font-semibold">
             Soporte de Entrega
           </h1>
-          <img src="/images.png" alt="PuniYa Logo" className="h-8 mr-4" />
+          <img src="/src/images.png" alt="PuniYa Logo" className="h-8 mr-4" />
         </div>
 
         <div className="h-[500px] overflow-y-auto p-4">
